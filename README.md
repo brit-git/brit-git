@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Python
+
 📫 How to reach me: 828bwong@gmail.com
+
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: I like to bake
